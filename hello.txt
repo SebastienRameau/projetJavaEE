@@ -1,0 +1,17 @@
+GIT Bash here sur un dossier
+
+$ git init 
+Pour transformer le dossier ~en dossier git
+
+$ git status
+Statut du dossier
+
+$ git add nouveaufichier.txt
+Modifie ~en fichier git un fichier texte existant dans le dossier.
+Ou : ~enregistre en git les modifications faîtes dans le fichier même
+
+$ git commit -m "premier commit"
+Valide les modifications et donne un nom à cette validation
+
+
+blabla commit 1
