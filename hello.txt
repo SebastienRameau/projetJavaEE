@@ -15,3 +15,13 @@ Valide les modifications et donne un nom à cette validation
 
 
 blabla commit 1
+
+Un add doit toujours être suivi d'un commit pour être validé
+
+commit 2
+
+$ git log
+Pour voir la liste des commit effectués
+
+$ git checkout
+Pour revenir à un commit précédent (n'efface pas les commit postérieurs).
